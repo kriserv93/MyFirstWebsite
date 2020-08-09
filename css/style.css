@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
+
+header h3 {
+    background-color: #ffffff;
+    font-size: 50px;
+    color: #32CD32;
+    background-color: black;
+    font-family: 'Exo', sans-serif;
+    margin: 0;
+}
+
+#nav {
+    background-color: black;
+    margin: 0;
+}
+
+body {
+    background-image: url("../img/galaxy.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    font-family: 'Exo', sans-serif;
+    margin: 0;
+
+}
+
+/*-----------color*/
+
+.title-color {
+    color: limegreen;
+    font-family: 'Exo', sans-serif;
+    padding: 500px 0 0 0;
+    font-size: 300px;
+    }
+
+    .bg-color-contact {
+        color: #ffffff;
+    }
+
+.ui-menu-color-home span {
+    color: #fffff;
+}
+
+    /*-----------aboutme*/
+
+    .container {
+       width: 600px;
+       height: 400px;
+       position: relative;
+       margin: 200px auto;
+
+    }
+
+    .container img {
+      width: 600px;
+      height: 400px;
+
+
+    }
+
+    .text {
+        color: limegreen;
+        font-size: 50px;
+        font-family: 'Exo';
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        padding: 350px 0 0 0;
+    
+
+    }
+
